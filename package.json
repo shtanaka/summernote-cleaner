@@ -1,25 +1,52 @@
 {
-  "name": "summernote-cleaner",
-  "version": "1.0.0",
+  "_from": "summernote-cleaner@^1.0.0",
+  "_id": "summernote-cleaner@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-v+OTduF3pI5h8JIqN7JOJwBUwqk=",
+  "_location": "/summernote-cleaner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "summernote-cleaner@^1.0.0",
+    "name": "summernote-cleaner",
+    "escapedName": "summernote-cleaner",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/summernote-cleaner/-/summernote-cleaner-1.0.0.tgz",
+  "_shasum": "bfe39376e177a48e61f0922a37b24e270054c2a9",
+  "_spec": "summernote-cleaner@^1.0.0",
+  "_where": "/Users/edsonsilva/dev/arqueiro/ris-frontend",
+  "author": {
+    "name": "StudioJunkyard"
+  },
+  "bugs": {
+    "url": "https://github.com/StudioJunkyard/summernote-cleaner/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "summernote": "^0.8.2"
+  },
+  "deprecated": false,
   "description": "A plugin for the Summernote WYSIWYG editor.",
-  "main": "summernote-cleaner.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DiemenDesign/summernote-cleaner.git"
-  },
+  "homepage": "https://github.com/StudioJunkyard/summernote-cleaner#readme",
   "keywords": [
     "summernote"
   ],
-  "author": "DiemenDesign",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DiemenDesign/summernote-cleaner/issues"
+  "main": "summernote-cleaner.js",
+  "name": "summernote-cleaner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StudioJunkyard/summernote-cleaner.git"
   },
-  "homepage": "https://github.com/DiemenDesign/summernote-cleaner#readme",
-  "dependencies": {
-    "summernote": "^0.8.2"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
